@@ -1,4 +1,6 @@
 
+#The difference between let and var in JavaScript
+
 As you may be aware, let is a new keyword in ECMAScript 6. While let works very much like var, there is one major difference. This article (a quick one) explains the difference between these two keywords in JavaScript.
 
 ## Scope
